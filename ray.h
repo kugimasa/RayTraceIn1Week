@@ -1,8 +1,8 @@
 //
 // Created by kugimasa on 2019/07/11.
 //
-#ifndef RAYTRACINGINONEWEEKEND_RAY_H
-#define RAYTRACINGINONEWEEKEND_RAY_H
+#ifndef RAYH
+#define RAYH
 
 #include "vec3.h"
 
@@ -17,4 +17,4 @@ public:
     vec3 A;
     vec3 B;
 };
-#endif //RAYTRACINGINONEWEEKEND_RAY_H
+#endif //RAYH
