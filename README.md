@@ -7,3 +7,7 @@ This is a practice project of Ray Tracing based on the book "[Ray Tracing in One
 * Learning how to build using CMake
 * Building the RayTracer with Qt
 * Making cool images!!
+
+## Images
+#### Tapioca
+![Tapioca](Tapioca/tapioca.png)
