@@ -3,4 +3,5 @@ Images/
 Output/
 *.pdf
 Tapioca/tapioca
-Tapioca/tapioca.ppm
+Tapioca/Highangle
+Tapioca/*.ppm
