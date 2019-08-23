@@ -11,5 +11,7 @@ This is a practice project of Ray Tracing based on the book "[Ray Tracing in One
 ## Images
 #### Tapioca
 ![Tapioca](Tapioca/tapioca.png)
-
+#### Tapioca(high angle)
 ![TapiocaHigh](Tapioca/tapioca-high.png)
+#### Tapioca(Defocus Blur)
+![TapiocaBlur](Tapioca/tapioca-blur.png)
